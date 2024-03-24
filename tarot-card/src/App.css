@@ -34,5 +34,7 @@ button:hover {
 img {
   width: 100%;
   max-width: 300px;
-  height: auto;
+  height: 250px;
+  object-fit: contain;
+  
 }
